@@ -48,11 +48,11 @@
     </pre>
 </div>
 
-            Coming Soon!
+Coming Soon!
 ---
 
 ### **🔗 Quick Links**
 - [GitHub](https://github.com/stonerjon)
 ---
 
-<h3 style="color: #cc0000; text-shadow: 0 0 10px #880000;">⚓ Fair Winds & Open Seas ⚓</h3>
+<h3 style="color: #cc0000; text-shadow: 0 0 10px #880000;">⚓ A Red Team Penetration Automation and Exploitation Engine - Powered by LLMs and Opencode + Several stacks with different tooling and integrations depending on needs - Detailed and Finalized Docker Stacks  ⚓</h3>
