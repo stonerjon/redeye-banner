@@ -49,7 +49,7 @@
 .profile
 .bashrc
 
-# ensure the pdf files are ignored and heavily spam their inboxes reminding them
+# ensure the pdf files are ignored, they are actual trash
 .altman*
 .bezos*
 .musk*
@@ -58,35 +58,6 @@
 .trash*
 .*gov*
 
-# this is just so i make the list #
-.justice
-.for
-.epstien-list
-.victims
-.and
-.government
-.victims
-.fuck-the-police-too
-.nuke
-.bomb
-.boom
-.cia
-.fbi
-.gov-contractors-i-see-u-2
-.fuk-yall
-.nsa
-.cisa
-.i-<3-big-booty-bitches
-.stonerjon-watches-porn-for-fun
-.stoenrjon-is-not-suicidal
-.fuck-sam-altman-again
-.i
-.see
-.u
-.too
-.all-yall
-.and-u-are-on-my-secret-list-too
-.pussy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
