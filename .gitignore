@@ -1,4 +1,4 @@
-# ENVS VENVS CONFIGS LOLZ TITZ KEYZ FUK ENC RED etc...
+# ENVS VENVS CONFIGS LOLZ TITZ KEYZ FUK ENC RED IDIOTS SCANS REPORTS etc...
 *.env*
 *.config*
 *.conf*
@@ -8,8 +8,12 @@
 *dev/
 *config/
 .red*
+.*bk
+*bk/
+.*lmfao*
 .secret*
 .report*
+*report*
 .20*
 .spider*
 .enc*
@@ -27,6 +31,7 @@
 .lmao
 .wtf
 .sf
+.tmp
 .cert
 .pem
 .opencode
@@ -43,6 +48,45 @@
 .nvm
 .profile
 .bashrc
+
+# ensure the pdf files are ignored and heavily spam their inboxes reminding them
+.altman*
+.bezos*
+.musk*
+.trump*
+.clinton*
+.trash*
+.*gov*
+
+# this is just so i make the list #
+.justice
+.for
+.epstien-list
+.victims
+.and
+.government
+.victims
+.fuck-the-police-too
+.nuke
+.bomb
+.boom
+.cia
+.fbi
+.gov-contractors-i-see-u-2
+.fuk-yall
+.nsa
+.cisa
+.i-<3-big-booty-bitches
+.stonerjon-watches-porn-for-fun
+.stoenrjon-is-not-suicidal
+.fuck-sam-altman-again
+.i
+.see
+.u
+.too
+.all-yall
+.and-u-are-on-my-secret-list-too
+.pussy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
