@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RedEye Banner</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .redeye-banner {
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a0000 100%);
+            padding: 30px;
+            border-radius: 8px;
+            border-left: 5px solid #cc0000;
+            border-right: 5px solid #660000;
+            box-shadow: 0 0 20px rgba(204, 0, 0, 0.5), inset 0 0 20px rgba(102, 0, 0, 0.3);
+            max-width: 600px;
+        }
+        
+        .redeye-text {
+            color: #ff3333;
+            text-shadow: 
+                0 0 10px #cc0000,
+                0 0 20px #880000,
+                2px 2px 4px rgba(0, 0, 0, 0.8);
+            font-weight: bold;
+            letter-spacing: 2px;
+            line-height: 1.4;
+            margin: 0;
+            white-space: pre;
+        }
+        
+        .redeye-glow {
+            animation: redeyepulse 2s infinite;
+        }
+        
+        @keyframes redeyepulse {
+            0%, 100% { text-shadow: 0 0 10px #cc0000, 0 0 20px #880000; }
+            50% { text-shadow: 0 0 20px #ff3333, 0 0 30px #cc0000, 0 0 40px #880000; }
+        }
+    </style>
+</head>
+<body>
+    <div class="redeye-banner">
+        <pre class="redeye-text redeye-glow">
+██████╗ ███████╗██████╗ ███████╗██╗   ██╗███████╗
+██╔══██╗██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝██╔════╝
+██████╔╝█████╗  ██║  ██║█████╗   ╚████╔╝ █████╗  
+██╔══██╗██╔══╝  ██║  ██║██╔══╝    ╚██╔╝  ██╔══╝  
+██║  ██║███████╗██████╔╝███████╗   ██║   ███████╗
+╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝   ╚═╝   ╚══════╝
+        </pre>
+    </div>
+</body>
+</html>
