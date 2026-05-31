@@ -1,42 +1,14 @@
-<style>
-    .redeye-banner {
-        background: linear-gradient(135deg, #0a0a0a 0%, #1a0000 100%);
-        padding: 30px;
-        border-radius: 8px;
-        border-left: 5px solid #cc0000;
-        border-right: 5px solid #660000;
-        box-shadow: 0 0 20px rgba(204, 0, 0, 0.5), inset 0 0 20px rgba(102, 0, 0, 0.3);
-        margin: 20px 0;
-        font-family: 'Courier New', monospace;
-        overflow-x: auto;
-    }
-    
-    .redeye-text {
-        color: #ff3333;
-        text-shadow: 
-            0 0 10px #cc0000,
-            0 0 20px #880000,
-            2px 2px 4px rgba(0, 0, 0, 0.8);
-        font-weight: bold;
-        letter-spacing: 2px;
-        line-height: 1.4;
-    }
-</style>
-
-<div class="redeye-banner">
-    <pre class="redeye-text">
+```
 ██████╗ ███████╗██████╗ ███████╗██╗   ██╗███████╗
 ██╔══██╗██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝██╔════╝
 ██████╔╝█████╗  ██║  ██║█████╗   ╚████╔╝ █████╗  
 ██╔══██╗██╔══╝  ██║  ██║██╔══╝    ╚██╔╝  ██╔══╝  
 ██║  ██║███████╗██████╔╝███████╗   ██║   ███████╗
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝   ╚═╝   ╚══════╝
-    </pre>
-</div>
-
----
+```
 
 Coming Soon!
 
 ### 🔗 Quick Links
 - [GitHub](https://github.com/stonerjon)
+- [Styled Banner](./banner.html)
